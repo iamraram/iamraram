@@ -1,5 +1,6 @@
 ## 안녕하세요, 17살 개발자 이하람입니다. 
 ### 저를 소개할게요
+* 웹 프론트, 백엔드, 앱개발자를 꿈꾸고 있어요
 * 선린인터넷고등학교 소프트웨어과에 재학중이고 항상 배우면서 발전하는 개발자가 되고싶어요 :)
 * 올해 목표는 <strong>Nest.js, React, Jetpack compose</strong>를 배우는 거예요
 * 현재는 <strong>Express, Vue, Kotlin Native</strong>를 주 기술로 쓰고 있어요
