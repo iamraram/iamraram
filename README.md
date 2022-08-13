@@ -7,8 +7,3 @@
 ### 수상 경력
 - 2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상
 - 2022년 선린 해커톤 생활 부문 동상
-
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=iamraram" align="left" style="width: 100%" />
-</td></tr></table>   <br></br>
-</table>
