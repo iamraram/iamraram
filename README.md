@@ -1,6 +1,9 @@
 ## 안녕하세요, 17살 개발자 이하람입니다. 
 * <a href="https://www.instagram.com/im.rarame">인스타그램 링크</a>
+* <a href="https://www.acmicpc.net/user/slyram06">백준 링크</a>
+
 ### 저를 소개할게요
+* 선린인고 동아리 에드캔 9기 부장
 * 웹 프론트, 백엔드, 앱개발자를 꿈꾸고 있어요
 * 선린인터넷고등학교 소프트웨어과에 재학중이고 항상 배우면서 발전하는 개발자가 되고싶어요 :)
 * 다양한 기술을 공부중이에요!
@@ -11,6 +14,7 @@
 
 ### 포트폴리오
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크(2022.11 ~)</a> - 2022 디지털콘텐츠경진대회 출품작
+- <a href="https://iamraram.github.io/routes/science.html">전사/번역기(2022.11)</a> - DNA의 전사와 RNA의 번역을 통한 아미노산 계산기
 - <a href="https://github.com/iamraram/WebGame">탈선린브레이크(2022.11)</a> - Canvas를 활용한 쿠키런 웹 게임
 - <a href="https://github.com/iamraram/raramWiki_front">라람위키 프론트(2022.10 ~)</a> - React로 만든 위키엔진 프론트 레포
 - <a href="https://github.com/iamraram/raramWiki_back">라람위키 백엔드(2022.10 ~)</a> - Nest로 만든 위키엔진 백엔드 레포
