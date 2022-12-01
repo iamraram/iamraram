@@ -13,11 +13,12 @@
 - 2022년 선린 해커톤 생활 부문 동상
 
 ### 포트폴리오
-- <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크(2022.11 ~)</a> - 2022 디지털콘텐츠경진대회 출품작
+- <a href="https://github.com/leecouple/project">감자키우기(2022.12)</a> - 1학년 2학기 선린 C언어 
+- <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크(2022.11 ~)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://iamraram.github.io/routes/science.html">전사/번역기(2022.11)</a> - DNA의 전사와 RNA의 번역을 통한 아미노산 계산기
 - <a href="https://github.com/iamraram/WebGame">탈선린브레이크(2022.11)</a> - Canvas를 활용한 쿠키런 웹 게임
-- <a href="https://github.com/iamraram/raramWiki_front">라람위키 프론트(2022.10 ~)</a> - React로 만든 위키엔진 프론트 레포
-- <a href="https://github.com/iamraram/raramWiki_back">라람위키 백엔드(2022.10 ~)</a> - Nest로 만든 위키엔진 백엔드 레포
+- <a href="https://github.com/iamraram/raramWiki_front">라람위키 프론트(2022.11)</a> - React로 만든 위키엔진 프론트 레포
+- <a href="https://github.com/iamraram/raramWiki_back">라람위키 백엔드(2022.11)</a> - Express로 만든 위키엔진 백엔드 레포
 - <a href="https://github.com/iamraram/miml">MIML(2022.09 ~)</a> - 음악 가사에 하이라이트하고 메모하는 안드로이드 앱
 - <a href="https://github.com/iamraram/mr.park">박희찬 키우기(2022.09)</a> - 에드캔 8기 부부장 박희찬을 키우는 안드로이드 앱
 - <a href="https://github.com/iamraram/DM_parsing">디엠파서(2022.08)</a> - 인스타그램 디엠 로그를 json으로 정리해주는 프로그램
