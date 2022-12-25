@@ -3,16 +3,16 @@
 * <a href="https://www.acmicpc.net/user/slyram06">백준 링크</a>
 
 ### 저를 소개할게요
-* 선린인고 동아리 에드캔 9기 부장
-* 웹 프론트, 백엔드, 앱개발자를 꿈꾸고 있어요
-* 선린인터넷고등학교 소프트웨어과에 재학중이고 항상 배우면서 발전하는 개발자가 되고싶어요 :)
-* 다양한 기술을 공부중이에요!
+* 선린인고 동아리 <b>에드캔 9기 부장</b>
+* 웹 프론트, 백엔드, 앱 분야를 다양하게 공부해보고 있어요
+* 선린인터넷고등학교 소프트웨어과에 재학중이에요 + 다양한 기술을 공부중이에요!
+* <a href="https://github.com/devsisters">DEVSISTERS</a>, <a href="https://github.com/toss">TOSS</a> 개발자로 일하고 싶어요
 
 ### 수상 경력
 - 2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상
 - 2022년 선린 해커톤 생활 부문 동상
 
-### 포트폴리오
+### 포트폴리오 (위에 있을수록 최신순)
 - <a href="https://github.com/leecouple/project">감자키우기(2022.12)</a> - 1학년 2학기 선린 C언어 
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크(2022.11 ~)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://iamraram.github.io/routes/science.html">전사/번역기(2022.11)</a> - DNA의 전사와 RNA의 번역을 통한 아미노산 계산기
