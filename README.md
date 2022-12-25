@@ -12,6 +12,9 @@
 - 2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상
 - 2022년 선린 해커톤 생활 부문 동상
 
+### 기술 스택
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ### 포트폴리오 (위에 있을수록 최신순)
 - <a href="https://github.com/leecouple/project">감자키우기(2022.12)</a> - 1학년 2학기 선린 C언어 
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크(2022.11 ~)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
