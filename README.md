@@ -8,9 +8,11 @@
 * 선린인터넷고등학교 소프트웨어과에 재학중이에요 + 다양한 기술을 공부중이에요!
 * <a href="https://github.com/devsisters">DEVSISTERS</a>, <a href="https://github.com/toss">TOSS</a> 개발자로 일하고 싶어요
 
-### 수상 경력
-- 2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상
-- 2022년 선린 해커톤 생활 부문 동상
+### 대회 경험
+- <b>2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상</b>
+- <b>2022년 선린 해커톤 생활 부문 동상</b>
+- 2022년 천하제일코딩대회 본선 진출
+- 2022년 디지털콘텐츠경진대회 본선 진출
 
 ### 기술 스택
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
