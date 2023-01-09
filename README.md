@@ -7,6 +7,7 @@
 * 웹 프론트, 백엔드, 앱 분야를 다양하게 공부해보고 있어요
 * 선린인터넷고등학교 소프트웨어과에 재학중이에요 + 다양한 기술을 공부중이에요!
 * <a href="https://github.com/devsisters">DEVSISTERS</a>, <a href="https://github.com/toss">TOSS</a> 개발자로 일하고 싶어요
+* <a href="https://solved.ac/profile/slyram06">백준 골드</a>이긴... 한데 알고리즘 다 까먹었어요 ㅎㅎ
 
 ### 대회 경험
 - <b>2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상</b>
