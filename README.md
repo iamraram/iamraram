@@ -3,17 +3,21 @@
 * <a href="https://www.acmicpc.net/user/slyram06">백준 링크</a>
 
 ### 저를 소개할게요
-* 선린인고 동아리 <b>에드캔 9기 부장</b>
+* 선린인고 동아리 <b><a href="https://edcan.kr">에드캔</a> 9기 부장</b>
 * 웹 프론트, 백엔드, 앱 분야를 다양하게 공부해보고 있어요
 * 선린인터넷고등학교 소프트웨어과에 재학중이에요 + 다양한 기술을 공부중이에요!
-* <a href="https://github.com/devsisters">DEVSISTERS</a>, <a href="https://github.com/toss">TOSS</a> 개발자로 일하고 싶어요
-* <a href="https://solved.ac/profile/slyram06">백준 골드</a>이긴... 한데 알고리즘 다 까먹었어요 ㅎㅎ
+* <a href="https://solved.ac/profile/slyram06">백준 골드</a>입니다! 알고리즘은 자신이 없어요 ㅎㅎ
+* <a href="https://blog.naver.com/slyram06">개발 블로그</a>입니다! 2020년부터 작성했고 글은 70여개가 있어요
 
 ### 대회 경험
 - <b>2022년 콘텐츠디자인과 디자인 공모전(UI, UX 부문) 은상</b>
 - <b>2022년 선린 해커톤 생활 부문 동상</b>
 - 2022년 천하제일코딩대회 본선 진출
 - 2022년 디지털콘텐츠경진대회 본선 진출
+
+### 목표
+* 아키텍쳐와 디자인 패턴에 대해 깊게 공부하고 싶어요
+* <a href="https://github.com/devsisters">DEVSISTERS</a>, <a href="https://github.com/toss">TOSS</a> 개발자로 일하고 싶어요
 
 ### 기술 스택
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
