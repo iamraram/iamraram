@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### 포트폴리오 (위에 있을수록 최신순)
-- <a href="https://github.com/sunrin-thisplay/thisplay-frontend">FORM.EDCAN(2023.03)</a> - Thisplay! : 콘텐츠디자인과 시연회 사이
+- <a href="https://github.com/sunrin-thisplay/thisplay-frontend">Thisplay!(2023.03)</a> - 콘텐츠디자인과 시연회 개발
 - <a href="https://github.com/edcan/edcanform.github.io">FORM.EDCAN(2023.03)</a> - EDCAN 웹 면접 시스템 제작
 - <a href="https://github.com/edcan/2023-EDCAN-Web">EDCAN(2023.02)</a> - EDCAN 2023년 홈페이지 제작
 - <a href="https://github.com/leecouple/project">감자키우기(2022.12)</a> - 1학년 2학기 선린 C언어 
