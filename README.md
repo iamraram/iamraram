@@ -21,25 +21,34 @@
 
 ## 포트폴리오
 #### <a href="https://github.com/iamraram/edu-admin-can">canOffice (2023.10)</a> - 동아리 및 조직 관리 백오피스 (개발 중)
-#### <a href="https://github.com/sunrin-thisplay/thisplay-frontend">Thisplay! (2023.08)</a> - 2023 콘텐츠디자인과 시연회 사이트
+* 개발자: 이하람
+* 기술 스택: React / Express.js / TypeORM
+#### <a href="https://github.com/23sunrinthon/hackathon_frontend">헬짱 (2023.07)</a> - 운동 경쟁, 루틴 관리 서비스
+* 개발자: 이하람, 주현명(<a href="https://github.com/jureuk7">jureuk7</a>), 이서율(<a href="https://github.com/zegiha">zegiha</a>), 조성훈(<a href="https://github.com/Jo-Sung-Hun">Jo-Sung-Hun</a>)
+* 기술 스택: React Native / Java SpringBoot / Figma API: Design System / AWS
 #### <a href="https://github.com/edcan/edcanform.github.io">EDCAN 면접시스템 (2023.03)</a> - 동아리 지원 및 면접 시스템
+* 개발자: 이하람
+* 기술 스택: React / FireBase / Github Action
 #### <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11)</a> - 2022 디지털콘텐츠경진대회 본선 제출작
+* 개발자: 이하람, 최재혁(<a href="https://github.com/jaehyeok3017">jaehyeok3017</a>), 김강민(<a href="https://github.com/kangmin913">kangmin913</a>), 김서하(<a href="https://github.com/krsthg">krsthg</a>), 문태서(<a href="https://github.com/Taeseo06">Taeseo06</a>)
+* 기술 스택: Android Studio with MVC Model
   
 ## 토이 프로젝트
-(추가 예정) 2학년 2학기 인공지능 프로젝트
-(추가 예정) 2학년 2학기 자료구조 프로젝트
-(추가 예정) 2학년 2학기 서버 프로젝트
-<a href="https://github.com/leecouple/project">프로그래밍 과제: 감자키우기</a>
-<a href="https://iamraram.github.io/routes/science.html">통합과학 전사/번역 계산기</a>
-<a href="https://github.com/iamraram/WebGame">웹 게임 소수전공: 탈선린브레이크</a>
-<a href="https://github.com/iamraram/raramWiki_front">CRUD 위키 프론트</a>
-<a href="https://github.com/iamraram/raramWiki_back">CRUD 위키 백엔드</a>
-<a href="https://github.com/edcan/2023-EDCAN-Web">EDCAN 2023년 홈페이지</a>
-<a href="https://github.com/iamraram/miml">음악가사 하이라이터: MIML</a>
-<a href="https://github.com/iamraram/mr.park">동아리 부원을 키우는 게임: 박희찬 키우기</a>
-<a href="https://github.com/iamraram/DM_parsing">인스타 디엠 로그 분석기</a>
-<a href="https://github.com/iamraram/woong">임영웅 멜론 순위 파싱 서비스: WOONG</a>
-<a href="https://github.com/iamraram/mbtibook">엠비티아이 커뮤니티 서비스: MBTIBOOK</a>
-<a href="https://github.com/iamraram/ganaesin">2021년 경기도 중3 가내신 계산기</a> 
-<a href="https://github.com/iamraram/diaryservice">책 추천 서비스: 리커맨드북</a>
+* (추가 예정) 2학년 2학기 인공지능 프로젝트
+* (추가 예정) 2학년 2학기 자료구조 프로젝트
+* (추가 예정) 2학년 2학기 서버 프로젝트
+* <a href="https://github.com/leecouple/project">프로그래밍 과제: 감자키우기</a>
+* <a href="https://iamraram.github.io/routes/science.html">통합과학 전사/번역 계산기</a>
+* <a href="https://github.com/iamraram/WebGame">웹 게임 소수전공: 탈선린브레이크</a>
+* <a href="https://github.com/sunrin-thisplay/thisplay-frontend">2023 콘텐츠디자인과 시연회: Thisplay!</a>
+* <a href="https://github.com/iamraram/raramWiki_front">CRUD 위키 프론트</a>
+* <a href="https://github.com/iamraram/raramWiki_back">CRUD 위키 백엔드</a>
+* <a href="https://github.com/edcan/2023-EDCAN-Web">EDCAN 2023년 홈페이지</a>
+* <a href="https://github.com/iamraram/miml">음악가사 하이라이터: MIML</a>
+* <a href="https://github.com/iamraram/mr.park">동아리 부원을 키우는 게임: 박희찬 키우기</a>
+* <a href="https://github.com/iamraram/DM_parsing">인스타 디엠 로그 분석기</a>
+* <a href="https://github.com/iamraram/woong">임영웅 멜론 순위 파싱 서비스: WOONG</a>
+* <a href="https://github.com/iamraram/mbtibook">엠비티아이 커뮤니티 서비스: MBTIBOOK</a>
+* <a href="https://github.com/iamraram/ganaesin">2021년 경기도 중3 가내신 계산기</a> 
+* <a href="https://github.com/iamraram/diaryservice">책 추천 서비스: 리커맨드북</a>
 
