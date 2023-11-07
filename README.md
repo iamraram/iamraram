@@ -37,7 +37,7 @@
 ## 토이 프로젝트
 * (추가 예정) 2학년 2학기 인공지능 프로젝트
 * (추가 예정) 2학년 2학기 자료구조 프로젝트
-* (추가 예정) 2학년 2학기 서버 프로젝트
+* <a href="https://github.com/iamraram/tier_of_cookierun">2학년 서버 프젝: 쿠키 티어 서비스</a>
 * <a href="https://github.com/leecouple/project">프로그래밍 과제: 감자키우기</a>
 * <a href="https://iamraram.github.io/routes/science.html">통합과학 전사/번역 계산기</a>
 * <a href="https://github.com/iamraram/WebGame">웹 게임 소수전공: 탈선린브레이크</a>
