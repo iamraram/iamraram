@@ -33,10 +33,10 @@
 #### <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11)</a> - 2022 디지털콘텐츠경진대회 본선 제출작
 * 개발자: 이하람, 최재혁(<a href="https://github.com/jaehyeok3017">jaehyeok3017</a>), 김강민(<a href="https://github.com/kangmin913">kangmin913</a>), 김서하(<a href="https://github.com/krsthg">krsthg</a>), 문태서(<a href="https://github.com/Taeseo06">Taeseo06</a>)
 * 기술 스택: Android Studio with MVC Model
-  
+
 ## 토이 프로젝트
-* (추가 예정) 2학년 2학기 인공지능 프로젝트
-* (추가 예정) 2학년 2학기 자료구조 프로젝트
+* <a href="https://github.com/iamraram/module_menu">식당 메뉴를 파싱해서 JSON으로 저장하는 모듈</a>
+* <a href="https://github.com/iamraram/recommend_card_for_child">2학년 인공지능 프젝: 급식카드 추천 모델</a>
 * <a href="https://github.com/iamraram/tier_of_cookierun">2학년 서버 프젝: 쿠키 티어 서비스</a>
 * <a href="https://github.com/leecouple/project">프로그래밍 과제: 감자키우기</a>
 * <a href="https://iamraram.github.io/routes/science.html">통합과학 전사/번역 계산기</a>
