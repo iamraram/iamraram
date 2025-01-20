@@ -1,4 +1,4 @@
-## 안녕하세요, 고등학교 2학년 개발자 이하람입니다. 
+## 안녕하세요, 06년생 개발자 이하람입니다. 
 * <a href="https://www.instagram.com/im.rarame">인스타그램 링크</a>
 * <a href="https://www.acmicpc.net/user/slyram06">백준 링크</a>
 * <a href="https://blog.naver.com/slyram06">개발 블로그</a>
